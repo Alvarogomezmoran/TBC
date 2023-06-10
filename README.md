@@ -1,12 +1,10 @@
 # TBC-Project-
-Proyecto de la asignatura de Introducción a la Blockchain 
+
 
 Memoria del Proyecto Gobernanza y Sistemas de Votación
 
 Tecnología Blockchain y Smart Contracts
-    Estudiantes:
-            Ávaro Gómez Morán
-						Marlon Campoverde Mendez
+  
 
 QuadraticVoting.sol
   Estructura Proposal:
